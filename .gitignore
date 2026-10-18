@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+._*
+Thumbs.db
+ehthumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+*.swo
+
+# OS generated files
+Desktop.ini
+$RECYCLE.BIN/
